@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumberApp", "MissingNumberApp\MissingNumberApp.csproj", "{1CCB9CAC-6FA1-4585-92DF-FCE08F16E9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumberApp.Tests", "MissingNumberApp.Tests\MissingNumberApp.Tests.csproj", "{C9351FA9-4CF8-4707-89C7-8521E6C13E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CCB9CAC-6FA1-4585-92DF-FCE08F16E9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCB9CAC-6FA1-4585-92DF-FCE08F16E9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCB9CAC-6FA1-4585-92DF-FCE08F16E9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCB9CAC-6FA1-4585-92DF-FCE08F16E9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9351FA9-4CF8-4707-89C7-8521E6C13E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9351FA9-4CF8-4707-89C7-8521E6C13E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9351FA9-4CF8-4707-89C7-8521E6C13E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9351FA9-4CF8-4707-89C7-8521E6C13E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C89355-4E55-40DF-BA4E-2196AFB1458E}
+	EndGlobalSection
+EndGlobal

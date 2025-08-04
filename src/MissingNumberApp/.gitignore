@@ -1,0 +1,28 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+
+# OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.DS_Store
+*.vscode/
